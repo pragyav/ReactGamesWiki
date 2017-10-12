@@ -34,3 +34,5 @@ Then, we built Frontend by writing React components and serve it with webpack-de
 
 Then included Redux state container and Redux-saga to perform asynchronous HTTP requests to our real server. 
 Finally, some simple authentication.
+
+![minecraftstore](https://user-images.githubusercontent.com/2385925/31490062-6f5d6d00-af4b-11e7-8773-451f6831c736.png)
